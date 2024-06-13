@@ -18,7 +18,7 @@ import { ProductContext } from "../_app";
 const products = [
   {
     name: "Bonk Tee",
-    price: 0.02,
+    price: 2,
     rating: 4,
     images: [
       {
